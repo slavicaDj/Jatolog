@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Jatolog</string>
+    <string name="predlozenarijecekavica">Ekavska riječ</string>
+    <string name="predlozenarijecijekavica">Ijekavska riječ</string>
+    <string name="predlozenarijecpredlozio">Predložio</string>
+    <string name="predlozenarijecizvor">Izvor</string>
+    <string name="predlozenarijecvrstarijeci">Vrsta riječi</string>
+    <string name="predlozenarijecnapomena">Napomena</string>
+    <string name="predlozenarijecprimjer">Primjer</string>
+    <string name="ekavska_rijec">Ekavska riječ</string>
+    <string name="ijekavska_rijec">Ijekavska riječ</string>
+    <string name="vase_ime">Vaše ime</string>
+    <string name="izvor">Izvor</string>
+    <string name="napomena">Napomena</string>
+    <string name="primjer">Primjer</string>
+    <string name="predlozi_rijec">Predloži riječ</string>
+    <string name="ijekavica">Ijekavica</string>
+    <string name="opis">Opis</string>
+    <string name="sadrzaj">Sadrzaj</string>
+    <string name="prijavi_gresku">Prijavi gresku</string>
+    <string name="ekavica">Ekavica</string>
+    <string name="e_mail">Vaš E-mail</string>
+    <string name="unesite_rijec">Unesite riječ</string>
+    <string name="pretraga">Pretraga</string>
+    <string name="top_rijeci">Najtraženije riječi</string>
+    <string name="kopirano">Kopirano:</string>
+    <string name="prijava_greske">Prijava greske</string>
+    <string name="prijavi">Prijavi</string>
+    <string name="odustani">Odustani</string>
+    <string name="prijavljeno">Prijavljeno:</string>
+    <string name="nije_prijavljeno">Nije prijavljeno</string>
+    <string name="rest_ekavica">https://api.myjson.com/bins/19lrdz</string>
+    <string name="rest_ekavica_top10">https://api.myjson.com/bins/bsc87</string>
+    <string name="rest_ijekavica">https://api.myjson.com/bins/1br09e</string>
+    <string name="rest_vrsta_rijeci">https://api.myjson.com/bins/1bkd2a</string>
+    <string name="rest_ijekavica_primjer">https://api.myjson.com/bins/wbvoy</string>
+    <string name="podesavanja">Podešavanja</string>
+    <string name="aplikacija">Aplikacija</string>
+    <string name="cirilica">Ćirilica</string>
+    <string name="PrevodAplikacijeNaCirilicu">Prevod aplikacije na ćirilicu</string>
+    <string name="Sinhronizacija">Sinhronizacija</string>
+    <string name="SinhronizacijaBazeRijeci">Sinhronizacija baze riječi</string>
+    <string name="Info">Info</string>
+    <string name="oNama">O nama</string>
+    <string name="nemaInternetKonekcije">Internet konekcija nije dostupna</string>
+    <string name="SinhrinizacijaUToku">Sinhronizacija je u toku</string>
+    <string name="editTextPreferenceBrojRijeci">editTextPreference</string>
+    <string name="brojTopRijeci">Broj najčešće pretraživanih riječi</string>
+    <string name="maksimalanBrojTopRijeci">Maksimalan broj riječi je 50</string>
+    <string name="predlozeno">Riječ je predložena</string>
+    <string name="nije_predlozeno">Riječ nije predložena</string>
+    <string name="nema_opisa">Nema opisa</string>
+    <string name="nema_primjera">Nema primjera</string>
+    <string name="nema_izvora">Nema izvora</string>
+    <string name="unesite_predlozene_rijeci">Unesite predložene riječi</string>
+    <string name="oNamaPreference">oNama</string>
+    <string name="udruzenjeLektora">Udruženje lektora Republike Srpske</string>
+    <string name="website">http://www.udruzenjelektorars.com/</string>
+
+    <string-array name="spnVrstaRijeci">
+        <item>Imenica</item>
+        <item>Zamjenica</item>
+        <item>Glagol</item>
+        <item>Pridjev</item>
+        <item>Prilog</item>
+        <item>Prijedlog</item>
+        <item>Veznik</item>
+        <item>Broj</item>
+        <item>Rječca</item>
+        <item>Uzvik</item>
+    </string-array>
+
+</resources>

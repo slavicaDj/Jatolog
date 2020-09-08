@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Јатолог</string>
+    <string name="predlozenarijecekavica">Екавска ријеч</string>
+    <string name="predlozenarijecijekavica">Ијекавска ријеч</string>
+    <string name="predlozenarijecpredlozio">Предложио</string>
+    <string name="predlozenarijecizvor">Извор</string>
+    <string name="predlozenarijecvrstarijeci">Врста ријечи</string>
+    <string name="predlozenarijecnapomena">Напомена</string>
+    <string name="predlozenarijecprimjer">Примјер</string>
+    <string name="ekavska_rijec">Екавска ријеч</string>
+    <string name="ijekavska_rijec">Ијекавска ријеч</string>
+    <string name="vase_ime">Ваше име</string>
+    <string name="izvor">Извор</string>
+    <string name="napomena">Напомена</string>
+    <string name="primjer">Примјер</string>
+    <string name="predlozi_rijec">Предложи ријеч</string>
+    <string name="ijekavica">Ијекавица</string>
+    <string name="opis">Опис</string>
+    <string name="sadrzaj">Садржај</string>
+    <string name="prijavi_gresku">Пријави грешку</string>
+    <string name="ekavica">Екавица</string>
+    <string name="e_mail">Ваш E-mail</string>
+    <string name="unesite_rijec">Унесите ријеч</string>
+    <string name="pretraga">Претрага</string>
+    <string name="top_rijeci">Најтраженије ријечи</string>
+    <string name="kopirano">Копирано:</string>
+    <string name="prijava_greske">Пријава грешке</string>
+    <string name="prijavi">Пријави</string>
+    <string name="odustani">Одустани</string>
+    <string name="prijavljeno">Пријављено:</string>
+    <string name="nije_prijavljeno">Није пријављено</string>
+    <string name="podesavanja">Подешавања</string>
+    <string name="aplikacija">Апликација</string>
+    <string name="cirilica">Ћирилица</string>
+    <string name="PrevodAplikacijeNaCirilicu">Превод апликације на ћирилицу</string>
+    <string name="Sinhronizacija">Синхронизација</string>
+    <string name="SinhronizacijaBazeRijeci">Синхронизација базе ријечи</string>
+    <string name="Info">Инфо</string>
+    <string name="oNama">О нама</string>
+    <string name="nemaInternetKonekcije">Интернет конекција није доступна</string>
+    <string name="SinhrinizacijaUToku">Синхронизација је у току</string>
+    <string name="brojTopRijeci">Број најчешће претраживаних ријечи</string>
+    <string name="maksimalanBrojTopRijeci">Максималан број ријечи је 50</string>
+    <string name="predlozeno">Ријеч је предложена</string>
+    <string name="nije_predlozeno">Ријеч није предложена</string>
+    <string name="nema_opisa">Нема описа</string>
+    <string name="nema_primjera">Нема примјера</string>
+    <string name="nema_izvora">Нема извора</string>
+    <string name="unesite_predlozene_rijeci">Унесите предложене ријечи</string>
+    <string name="oNamaPreference">оНама</string>
+    <string name="udruzenjeLektora">Удружење лектора Републике Српске</string>
+    <string name="website">http://www.udruzenjelektorars.com/</string>
+
+    <string-array
+        name="spnVrstaRijeci">
+        <item>Именица</item>
+        <item>Замјеница</item>
+        <item>Глагол</item>
+        <item>Придјев</item>
+        <item>Прилог</item>
+        <item>Приједлог</item>
+        <item>Везник</item>
+        <item>Број</item>
+        <item>Рјечца</item>
+        <item>Узвик</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <PreferenceCategory
+        android:key="aplikacija_category"
+        android:title="@string/aplikacija">
+
+        <SwitchPreference
+            android:defaultValue="false"
+            android:key="@string/cirilica"
+            android:summary="@string/PrevodAplikacijeNaCirilicu"
+            android:title="@string/cirilica" />
+        <Preference
+            android:key="@string/Sinhronizacija"
+            android:summary="@string/SinhronizacijaBazeRijeci"
+            android:title="@string/Sinhronizacija" />
+
+        <EditTextPreference
+            android:key="@string/editTextPreferenceBrojRijeci"
+            android:title="@string/brojTopRijeci"
+            android:summary=""
+            android:dialogTitle="@string/brojTopRijeci"
+            android:dialogMessage="@string/maksimalanBrojTopRijeci"
+            android:inputType="number"
+            android:singleLine="true"
+            android:defaultValue="10"
+            />
+
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:key="info_category"
+        android:title="@string/Info">
+
+        <Preference
+            android:key="@string/oNamaPreference"
+            android:title="@string/oNama" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

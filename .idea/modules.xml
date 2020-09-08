@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Jatolog.iml" filepath="$PROJECT_DIR$/.idea/modules/Jatolog.iml" group="Jatolog" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Jatolog-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Jatolog-app.iml" group="Jatolog/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jatolog.iml" filepath="$PROJECT_DIR$/jatolog.iml" />
+    </modules>
+  </component>
+</project>
